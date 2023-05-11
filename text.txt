@@ -1,0 +1,15 @@
+color
+
+
+
+
+
+font family
+ky-#008aff
+nb-#0f2656
+red-#f15767
+
+bg-
+p-#fdebed
+y-#ebf9f4
+g-#575988
